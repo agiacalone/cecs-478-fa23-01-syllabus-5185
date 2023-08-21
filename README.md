@@ -1,16 +1,16 @@
 # Introduction to Computer Security
 
-## CECS 478: Section 1 (8982)
+## CECS 478: Section 1 (5185)
 
-### Spring 2023
+### Fall 2023
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
 | Mon Wed       | 11:00 AM - 12:15 PM | ECS-308 |
 
-| Instructor        | Email                       | Office  | Office Hours           |
+| Instructor        | Email                       | Office  | Office Hours               |
 |-------------------|-----------------------------|---------|----------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-530 | 10:00 - 11:00 AM Mon-Thu |
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-530 | 10:00 - 11:00 AM Mon-Thu   |
 
 ### Required Textbook
 
@@ -21,7 +21,7 @@
 **Prerequisite**: CECS 328 or CECS 346 with a grade of “C” or better.
 Controlling the risk of computer security. Security threats and vulnerabilities in the development and use of computer systems. Tools and controls that can reduce or block these threats. Law, privacy and ethics.
 
-Letter grade only (A-F). (Lecture-problems 3 hours) Not open for credit to students with credit in CECS 478H. 
+Letter grade only (A-F). (Lecture-problems 3 hours) Not open for credit to students with credit in CECS 478H.
 
 ### Course Goals
 
@@ -32,34 +32,37 @@ By the conclusion of this course, students will be able to:
 * Understand, recognize, and know how to avoid the main security vulnerabilities
 * Make ethical decisions with respect to computer security and user privacy
 * Know how to design and analyze a secure computer system in general
-* Have a solid understanding of current, topical issues in computer security 
+* Have a solid understanding of current, topical issues in computer security
 
 | Grading           |      | | Grade Scale |    |
 |-------------------|------|-|-------------|----|
 | Homework and Labs | 35%  | | >= 90%      | A  |
-| Exams and Quizzes | 40%  | | 80% - 89%   | B  |
-| Final Exam        | 25%  | | 70% - 79%   | C  |
-|                   |      | | 60% - 69%   | D  |
-| **Total**         | 100% | | < 60%       | F  |
+| Exam One          | 20%  | | 80% - 89%   | B  |
+| Exam Two          | 20%  | | 70% - 79%   | C  |
+| Final Exam        | 25%  | | 60% - 69%   | D  |
+|                   |      | | < 60%       | F  |
+| **Total**         | 100% | |             |    |
 
 ### Tentative Class Schedule
+
 |  Week      | Subject                                             |
 |------------|-----------------------------------------------------|
-| Jan 19, 23 | Intro to Computer Security (Ch 1)                   |
-| Feb  1     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
-| Feb  6     | Encryption, ctd                                     |
-| Feb 13     | First exam, Malicious Software (Ch 6)               |
-| Feb 20     | Malicious Software, ctd                             |
-| Feb 27     | Denial of Service Attacks (Ch 7)                    |
-| Mar  6     | DoS ctd, Database and Cloud Security (Ch 5)         |
-| Mar 13     | Database, ctd                                       |
-| Mar 20     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
-| Mar 27     | **Spring Break**                                    |
-| Apr  3     | Buffer Overflow, ctd.                               |
-| Apr 10     | User Authentication and Access Control (Ch 3, 4)    |
-| Apr 17     | UAAC ctd, Intrusion Detection (Ch 8)                |
-| Apr 24     | OS Security (Ch 12)                                 |
-| May  1, 8  | Case Study, Final Exam                              |
+| Aug 21     | Introduction to Computer Security and Hacking (Ch 1)|
+| Aug 28     | Programming for Hackers (Ch 2)                      |
+| Sep  4     | Exploitation (Ch 3)                                 |
+| Sep 11     | Exploitation, ctd.                                  |
+| Sep 18     | First exam, Networking (Ch 4)                       |
+| Sep 25     | Networking, ctd.                                    |
+| Oct  2     | Shellcode (Ch 5)                                    |
+| Oct  9     | Shellcode, ctd.                                     |
+| Oct 16     | Second Exam, Countermeasures (Ch 6)                 |
+| Oct 23     | Countermeasures, ctd.                               |
+| Oct 30     | Cryptography/Cryptology (Ch 7)                      |
+| Nov  6     | Crypto, ctd.                                        |
+| Nov 13     | Crypto, ctd.                                        |
+| Nov 20     | Fall Break                                          |
+| Nov 27     | Case Studies in Hacking                             |
+| Dec 4-11   | Case Study, Final Exam                              |
 
 ### Exams
 
